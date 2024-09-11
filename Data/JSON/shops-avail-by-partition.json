@@ -1,0 +1,21 @@
+{
+    "shops": [...],
+    "avail": {
+        "branches": [...],
+        "products": [
+            {
+                "productId": "...",
+                "branches": [
+                    {
+                        "branchId": "...",
+                        
+                        // Значения, которые фильтруются
+                        "when": "...",
+                        "maxCount": 0,
+                        "hardCount": 0
+                    }
+                ]
+            }
+        ]
+    }
+}
