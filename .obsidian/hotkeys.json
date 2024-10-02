@@ -31,5 +31,21 @@
       ],
       "key": "S"
     }
+  ],
+  "quickadd:choice:9d3a1603-a820-4f40-a6ad-3d5990ac8065": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
+    }
+  ],
+  "quickadd:choice:e2710c70-2dab-4622-a196-2be2d50d5675": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
+    }
   ]
 }

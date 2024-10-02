@@ -3,7 +3,7 @@
   "taskCompletionTracking": true,
   "taskCompletionUseEmojiShorthand": false,
   "taskCompletionText": "completion",
-  "taskCompletionDateFormat": "yyyy-MM-dd hh:mm",
+  "taskCompletionDateFormat": "yyyy-MM-dd hh:mm a",
   "recursiveSubTaskCompletion": false,
   "warnOnEmptyResult": true,
   "refreshEnabled": true,
